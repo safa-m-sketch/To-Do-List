@@ -1,10 +1,12 @@
 # To-Do-List
-I decided to alter this project a year later after learning how to create a GUI
+I made this project initially in the console. After getting familiar with creating GUIs, I recreated it with Tkinter to make it more user-friendly. 
 
-This project previously started as only outputting in the console. After using skills learned from following the Calculator tutorial I created a to do list with Tkinter as well. I added similar properties such as hovering and connecting to keyboard.
-New skills I learned through this project was how to add a scroll, dropdown, message box, and got familar with using listbox.
+New skills I learned through this project were how to:
+- Scrollbars
+- Pop up message boxes
+- Listbox
 
-This program allows you to create a To-Do list where you can add tasks you input, list the importance, scroll through (if you have a LONGGG list)
+This program allows you to create a To-Do list where you can add tasks you input, list the importance, and scroll through a variety of tasks
 
 Keyboard Shortcuts:
 Enter (on keyboard) to add a task
